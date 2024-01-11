@@ -38,5 +38,11 @@ Follow these steps to use the prototype:
 
 6. **Upload Photos for Diagnosis**: Use the website interface to upload your photos and obtain orthodontic diagnoses instantly.
 
+## A Glimpse of The Program
+![Capture-2024-01-11-190641](https://github.com/finazaria/thesis-porto/assets/71756829/8a5bb8b9-6687-4f38-91f6-650b4638f36d)
+
+
+
 This program is not for public use.
+
 Contact me if you have a desire for further development of this prototype.
